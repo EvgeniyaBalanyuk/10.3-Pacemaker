@@ -41,10 +41,10 @@ Corosync — программный продукт, который позвол�
 
 Соберите модель, состоящую из двух виртуальных машин. Установите Pacemaker, Corosync, Pcs. Настройте HA кластер.
 
-https://github.com/EvgeniyaBalanyuk/screenshots/blob/700282060a0fed34dfdb583315b0c235fe0b4eb7/node1.png
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/node1.png)
 
-https://github.com/EvgeniyaBalanyuk/screenshots/blob/700282060a0fed34dfdb583315b0c235fe0b4eb7/node1%20conf.png
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/node1%20conf.png)
 
-https://github.com/EvgeniyaBalanyuk/screenshots/blob/700282060a0fed34dfdb583315b0c235fe0b4eb7/node2.png
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/700282060a0fed34dfdb583315b0c235fe0b4eb7/node2.png)
 
-https://github.com/EvgeniyaBalanyuk/screenshots/blob/700282060a0fed34dfdb583315b0c235fe0b4eb7/node2%20conf.png
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/700282060a0fed34dfdb583315b0c235fe0b4eb7/node2%20conf.png)
